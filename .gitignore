@@ -16,3 +16,5 @@ output_images/
 # OS-specific files
 .DS_Store
 *.log
+
+.vscode
